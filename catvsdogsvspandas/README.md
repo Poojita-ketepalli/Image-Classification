@@ -5,6 +5,6 @@ I have tried Image Classification using SVM,Random Forest,Decision tree classifi
 
 | Algorithm  | Accuracy |
 | ------------- | ------------- |
-| SVM  | Content Cell  |
-| Random Forest  | Content Cell  |
-| Decision tree classifier  | Content Cell  |
+| SVM  | 0.6411111111111111  |
+| Random Forest  | 0.6455555555555555  |
+| Decision tree classifier  | 0.5077777777777778  |
